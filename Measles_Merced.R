@@ -1,7 +1,7 @@
 
 
 
-measles <- read.table("measles_data.txt", header = TRUE, sep = ',')
+measles <- read.table("Merced_Detections.txt", header = TRUE, sep = ',')
 
 # names(measles)
 
